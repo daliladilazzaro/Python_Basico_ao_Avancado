@@ -8,8 +8,14 @@ Exercícios do curso da Udemy - **Programação PYTHON do ZERO ao Avançado 2023
 - Numpy
 - Scikit Learn
 
+## Imprimir no console
+Uma maneira simples, e muito eficiênte para testes e aprendizado, é o ```print()```. Que pode ser utilizado tanto com *aspas simples*, quanto por *aspas duplas*. Podendo ser digitado catacter especial, e acentuação, já que tudo que estará dentro das aspas, será considerado **texto**.
+
+![image](https://user-images.githubusercontent.com/62756757/212181019-487fc280-7b1f-44a5-b718-b433febc1495.png)
+
+
 ## Comentários no Python 🐍
-Em python, tanto pode ser utilizado ```#```(hastag/sustenido/jogo da velha) quanto ```" "``` (aspas duplas ou simples)
+Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) quanto ```" "``` (aspas duplas ou simples)
 
 ![image](https://user-images.githubusercontent.com/62756757/212179595-a4ba1548-2721-45db-8b2d-c2dca5230b95.png)
 
@@ -17,7 +23,10 @@ Em python, tanto pode ser utilizado ```#```(hastag/sustenido/jogo da velha) quan
 
 ## Links usados para ajudar a compor o projeto: 
 - [Replit](https://replit.com/~)
+- [Udemy](https://ibm-learning.udemy.com/course/programacao-python-do-basico-ao-avancado/learn/lecture/24566322#content)
 
 ## Authors 👩‍💻💖
 
 - [@daliladilazzaro](https://github.com/daliladilazzaro) 💁💖💻
+- [LinkedIn](https://www.linkedin.com/in/dalila-di-lazzaro-298296100/) 
+
