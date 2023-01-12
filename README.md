@@ -19,7 +19,21 @@ Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) qua
 
 ![image](https://user-images.githubusercontent.com/62756757/212179595-a4ba1548-2721-45db-8b2d-c2dca5230b95.png)
 
+## Tipos de dados aceitos no Python 🐍
 
+### Texto
+- Todo texto digitado dentro de uma variável String 
+***String/STR ("")/('')***
+
+### Números
+- Eles podem ser inteiros ou decimais
+Integer
+Float
+
+### Operador lógico Boleanos
+- São 
+Boolean
+Bool = true/false
 
 ## Links usados para ajudar a compor o projeto: 
 - [Replit](https://replit.com/~)
@@ -28,5 +42,5 @@ Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) qua
 ## Authors 👩‍💻💖
 
 - [@daliladilazzaro](https://github.com/daliladilazzaro) 💁💖💻
-- [LinkedIn](https://www.linkedin.com/in/dalila-di-lazzaro-298296100/) 
+- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalila-di-lazzaro-298296100/) 
 
