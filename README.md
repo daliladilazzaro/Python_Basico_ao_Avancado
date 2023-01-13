@@ -22,22 +22,25 @@ Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) qua
 ## Tipos de dados aceitos no Python 🐍
 
 ### Texto
-- Todo texto digitado dentro de uma variável String 
-***String/STR ("")/('')***
+Texto ou *Strings*, são conjuntos de caracteres de texto que podem ser compreendidos como representações de informações escritas dentro de um código
+- ***String/STR ("")/('')***
 
 ### Números
-- Eles podem ser inteiros ou decimais
-Integer
-Float
+Tipos numéricos — int , float , complex. Existem três tipos numéricos distintos: inteiros, números de ponto flutuante e números complexos. Além disso, os booleanos são um subtipo de números inteiros. Inteiros têm precisão ilimitada.
+- Integer
+- Float
+- Complex
 
-### Operador lógico Boleanos
-- São 
-Boolean
-Bool = true/false
+### Operadores Lógicos -  Boleanos
+o tipo *bool* especifica os valores booleanos *falso (False)* ou *verdadeiro (True)*. Podemos criar variáveis associadas a booleanos, mas o uso mais comum é na verificação de resultados de expressões relacionais e lógicas. Já vimos que constantes e variáveis são expressões.
+- Bool = true/false
 
 ## Links usados para ajudar a compor o projeto: 
 - [Replit](https://replit.com/~)
 - [Udemy](https://ibm-learning.udemy.com/course/programacao-python-do-basico-ao-avancado/learn/lecture/24566322#content)
+- [Kenzie](https://kenzie.com.br/blog/string-python/#:~:text=Strings%2C%20n%C3%A3o%20somente%20em%20Python,escritas%20dentro%20de%20um%20c%C3%B3digo.)
+- [Python](https://www.python.org/)
+- [Unicamp](https://www.ic.unicamp.br/~raquel.cabral/pdf/Aula04.pdf)
 
 ## Authors 👩‍💻💖
 
