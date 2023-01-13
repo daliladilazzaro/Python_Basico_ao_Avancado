@@ -21,7 +21,9 @@ Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) qua
 
 ## Variáveis
 Variáveis são como containers para armazenar dados, como por exemplo: ```Strings, Int, Float```.
-Em Python 🐍, as variáveis não precisam ser declaradas
+Em Python 🐍, as variáveis não precisam ser declaradas, como o exemplo abaixo:
+![image](https://user-images.githubusercontent.com/62756757/212335936-a94c8141-288c-4754-8dc1-5b7a5de96e78.png)
+Note que usei função ```type()``` para saber o tipo da variável dentro de um ```print()```.
 
 ## Tipos de dados aceitos no Python 🐍
 ### Texto
@@ -44,6 +46,7 @@ o tipo *bool* especifica os valores booleanos *falso (False)* ou *verdadeiro (Tr
 - [Kenzie](https://kenzie.com.br/blog/string-python/#:~:text=Strings%2C%20n%C3%A3o%20somente%20em%20Python,escritas%20dentro%20de%20um%20c%C3%B3digo.)
 - [Python](https://www.python.org/)
 - [Unicamp](https://www.ic.unicamp.br/~raquel.cabral/pdf/Aula04.pdf)
+- [DicasPython](https://dicasdepython.com.br/python-como-descobrir-o-tipo-de-uma-variavel-ou-objeto/)
 
 ## Authors 👩‍💻💖
 
