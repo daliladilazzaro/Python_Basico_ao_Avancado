@@ -35,6 +35,12 @@ Em Python 🐍, as variáveis não precisam ser declaradas, como o exemplo abaix
 
 Note que usei função ```type()``` para saber o tipo da variável dentro de um ```print()```.
 
+Podemos trocar cada tipo de dado, ou até fixar o tipo daquele dado, informando o tipo e passando a informação dentro da função, conforme:
+
+![image](https://user-images.githubusercontent.com/62756757/212386106-7bd3dd2e-18c8-4f0f-b054-4a2389655386.png)
+
+Isso é manipulação de dados ☺
+
 ## Tipos de dados aceitos no Python 🐍
 ### Texto
 Texto ou *Strings*, são conjuntos de caracteres de texto que podem ser compreendidos como representações de informações escritas dentro de um código
