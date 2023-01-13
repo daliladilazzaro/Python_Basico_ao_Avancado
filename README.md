@@ -19,8 +19,11 @@ Em python, tanto pode ser utilizado ```#``` (hastag/sustenido/jogo da velha) qua
 
 ![image](https://user-images.githubusercontent.com/62756757/212179595-a4ba1548-2721-45db-8b2d-c2dca5230b95.png)
 
-## Tipos de dados aceitos no Python 🐍
+## Variáveis
+Variáveis são como containers para armazenar dados, como por exemplo: ```Strings, Int, Float```.
+Em Python 🐍, as variáveis não precisam ser declaradas
 
+## Tipos de dados aceitos no Python 🐍
 ### Texto
 Texto ou *Strings*, são conjuntos de caracteres de texto que podem ser compreendidos como representações de informações escritas dentro de um código
 - ***String/STR ("")/('')***
