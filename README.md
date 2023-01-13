@@ -2,11 +2,19 @@
 
 Exercícios do curso da Udemy - **Programação PYTHON do ZERO ao Avançado 2023 + 2 CURSOS**. Neste projeto, contém pastas com exercícios realizados ao decorrer do curso, com exemplos práticos e teóricos. Abaixo estão listados no conteúdo de suas respectivas pastas, para fácil orientação. 
 
+## Editores de Texto e IDEs
+Para poder programar em Python, pode ser utilizado diversas ferramentas, como:
 
-## Para ser um Cientista de Dado precisa saber:
-- Pandas
-- Numpy
-- Scikit Learn
+- **IDE**
+- - Sublime
+- - PyCharm
+- - VS Code
+- - Atom
+- - Repl it - Online
+
+- **Editores de texto**
+- - Vim
+- - Notepad++
 
 ## Imprimir no console
 Uma maneira simples, e muito eficiênte para testes e aprendizado, é o ```print()```. Que pode ser utilizado tanto com *aspas simples*, quanto por *aspas duplas*. Podendo ser digitado catacter especial, e acentuação, já que tudo que estará dentro das aspas, será considerado **texto**.
@@ -50,6 +58,12 @@ o tipo *bool* especifica os valores booleanos *falso (False)* ou *verdadeiro (Tr
 - [Unicamp](https://www.ic.unicamp.br/~raquel.cabral/pdf/Aula04.pdf)
 - [DicasPython](https://dicasdepython.com.br/python-como-descobrir-o-tipo-de-uma-variavel-ou-objeto/)
 - [shields.io](https://shields.io/)
+
+## Para ser um Cientista de Dado precisa saber:
+- Pandas
+- Numpy
+- Scikit Learn
+
 
 ## Authors 👩‍💻💖
 
