@@ -64,6 +64,7 @@ o tipo *bool* especifica os valores booleanos *falso (False)* ou *verdadeiro (Tr
 - [Unicamp](https://www.ic.unicamp.br/~raquel.cabral/pdf/Aula04.pdf)
 - [DicasPython](https://dicasdepython.com.br/python-como-descobrir-o-tipo-de-uma-variavel-ou-objeto/)
 - [shields.io](https://shields.io/)
+- [Tutorial github - YouTube](https://www.youtube.com/watch?v=kcTn4OeppIM&list=LL&index=33&t=2133s&ab_channel=EduardoTakeoUeda)
 
 ## Para ser um Cientista de Dado precisa saber:
 - Pandas
